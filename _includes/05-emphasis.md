@@ -1,7 +1,7 @@
 # skills
 
-my **technical skills** so far
--_HTML_
+my **technical skills** so far:
+- _HTML_
 - _CSS_
 - _Bootstrap_
 - _GIT_
